@@ -1,0 +1,11 @@
+C:\Users\damianpelovski\Documents\PokerGame\Poker\bin\Debug\Poker.exe.config
+C:\Users\damianpelovski\Documents\PokerGame\Poker\bin\Debug\Poker.exe
+C:\Users\damianpelovski\Documents\PokerGame\Poker\bin\Debug\Poker.pdb
+C:\Users\damianpelovski\Documents\PokerGame\Poker\obj\Debug\Poker.csprojResolveAssemblyReference.cache
+C:\Users\damianpelovski\Documents\PokerGame\Poker\obj\Debug\Poker.AddChips.resources
+C:\Users\damianpelovski\Documents\PokerGame\Poker\obj\Debug\Poker.Form1.resources
+C:\Users\damianpelovski\Documents\PokerGame\Poker\obj\Debug\Poker.GameEngine.resources
+C:\Users\damianpelovski\Documents\PokerGame\Poker\obj\Debug\Poker.Properties.Resources.resources
+C:\Users\damianpelovski\Documents\PokerGame\Poker\obj\Debug\Poker.csproj.GenerateResource.Cache
+C:\Users\damianpelovski\Documents\PokerGame\Poker\obj\Debug\Poker.exe
+C:\Users\damianpelovski\Documents\PokerGame\Poker\obj\Debug\Poker.pdb
