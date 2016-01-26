@@ -150,6 +150,12 @@ publish/
 !**/packages/build/
 # Uncomment if necessary however generally it will be regenerated when needed
 #!**/packages/repositories.config
+<<<<<<< HEAD
+=======
+# NuGet v3's project.json files produces more ignoreable files
+*.nuget.props
+*.nuget.targets
+>>>>>>> 97608c66842834cf4abb6db590aef37ab8c31cad
 
 # Microsoft Azure Build Output
 csx/
